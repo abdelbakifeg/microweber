@@ -30,7 +30,7 @@
         "popper.js": "^1.16.1",
         "postcss": ">=8.4.31",
         "react-filerobot-image-editor": "^4.4.0",
-        "vue": "^3.2.36",
+        "vue": "^3.4.27",
         "vue-color-kit": "^1.0.5",
         "vue-drag-resize": "^1.5.4",
         "vue-final-modal": "^4.5.4",
