@@ -17,7 +17,7 @@
         "alpinejs": "^3.13.7",
         "aos": "^2.3.4",
         "axios": ">=1.6.5",
-        "bootstrap": "^4.6.2",
+        "bootstrap": "^5.0.0",
         "bootstrap-select": "^1.13.18",
         "filerobot-image-editor": "^4.4.0",
         "follow-redirects": ">=1.15.6",
