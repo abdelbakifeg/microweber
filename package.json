@@ -19,7 +19,7 @@
         "axios": ">=1.6.5",
         "bootstrap": "^4.6.2",
         "bootstrap-select": "^1.13.18",
-        "filerobot-image-editor": "^4.4.0",
+        "filerobot-image-editor": "^4.8.1",
         "follow-redirects": ">=1.15.6",
         "gulp-include": "^2.4.1",
         "ion-rangeslider": "^2.3.1",
